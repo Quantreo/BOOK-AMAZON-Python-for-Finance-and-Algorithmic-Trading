@@ -17,7 +17,7 @@ The financial sector is undergoing significant restructuring. Traders and portfo
 * All codes in the book can be used for live trading or screener if you prefer manual trading
 
 
-**MetaTrader configuration explanation**: www.youtube.com 
+**MetaTrader configuration explanation**: https://www.youtube.com/watch?v=iJoQTCeIxIA&list=PLGaqkGqYH254MiirQQlPBL-H9Ss897Gwl
 
 
 
